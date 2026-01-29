@@ -72,14 +72,6 @@ const hammad = {
 
 ---
 
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hammadpathan&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
-</div>
-
----
-
 ### 💼 Connect With Me
 
 <div align="center">
