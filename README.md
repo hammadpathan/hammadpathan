@@ -1,12 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=435&lines=Hi+there%2C+I'm+Hammad+%F0%9F%91%8B;Full+Stack+Developer;Tech+Enthusiast;Problem+Solver" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  
-  [![GitHub followers](https://img.shields.io/github/followers/hammadpathan?style=for-the-badge&logo=github&logoColor=white&labelColor=1c1c1c&color=00D9FF)](https://github.com/hammadpathan)
-  [![Profile Views](https://komarev.com/ghpvc/?username=hammadpathan&style=for-the-badge&color=00D9FF&labelColor=1c1c1c)](https://github.com/hammadpathan)
-  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=435&lines=Hi+there%2C+I'm+Hammad+%F0%9F%91%8B;SWE New Grad;Full+Stack+Developer" alt="Typing SVG" />
 </div>
 
 ---
